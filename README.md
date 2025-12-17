@@ -1,0 +1,1 @@
+The Super Market Billing System is a software application designed to automate and simplify the billing process in a supermarket. It helps manage products, calculate bills, apply discounts, generate invoices, and maintain transaction records efficiently. This system reduces manual errors, saves time, and improves overall customer experience.
